@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 第一篇博客
-date: 2015-3-02
+title: 鲁迅先生告诉我们些什么
+date: 2018-2-01
 categories: blog
 tags: [珍惜时光,砥砺前行]
 description: 鲁迅文章金句。
